@@ -1,0 +1,257 @@
+Last login: Tue Aug 16 10:35:26 on ttys000
+Now using node v16.13.0 (npm v8.1.0)
+
+~ via ⬢ v16.13.0
+➜ ls
+AgentInstaller.pkg            dkan-tools
+Applications                  eclipse
+Desktop                       eclipse-workspace
+Documents                     go
+Downloads                     google-cloud-sdk
+Library                       iCloud Drive (Archive)
+Movies                        java_error_in_rider_84213.log
+Music                         java_error_in_rider_96176.log
+Pictures                      jbr_err_pid84213.log
+Postman                       jbr_err_pid96176.log
+Public                        ngrok
+PycharmProjects               node_modules
+README.md                     package-lock.json
+RiderProjects                 projects
+Sites                         sdd-technical-documentation
+VirtualBox VMs                secrets.json
+ckan                          tic-tac-toe
+
+~ via ⬢ v16.13.0
+➜ la
+total 64144
+drwxr-xr-x    5 robertmchugh  staff   160B 24 Aug 15:57 .AzureToolsForIntelliJ
+-r--------    1 robertmchugh  staff     7B 30 Mar  2020 .CFUserTextEncoding
+-rw-r--r--@   1 robertmchugh  staff    18K 21 Jul 15:58 .DS_Store
+drwxr-xr-x    8 robertmchugh  staff   256B 21 Apr 10:21 .IdentityService
+drwx------   17 robertmchugh  staff   544B 28 Jul 09:44 .Trash
+drwxr-xr-x    3 robertmchugh  staff    96B 21 Apr 10:19 .android
+drwxr-xr-x    3 robertmchugh  staff    96B 20 May  2019 .aspnet
+drwxr-xr-x    3 robertmchugh  staff    96B  4 Jan  2022 .aws
+drwxr-xr-x    4 robertmchugh  staff   128B 20 Apr 15:28 .azuredatastudio
+-rw-------    1 robertmchugh  staff   1.8K 10 Jun 11:31 .bash_history
+drwx------   15 robertmchugh  staff   480B 15 May  2019 .bash_sessions
+-rw-------    1 robertmchugh  staff    20K 23 Nov  2020 .boto
+drwxr-xr-x    4 robertmchugh  staff   128B 20 Sep  2019 .bundle
+drwxr-xr-x    5 robertmchugh  staff   160B 16 Jul  2019 .cache
+drwxr-xr-x   13 robertmchugh  staff   416B 24 May 10:14 .config
+drwxr-xr-x   12 robertmchugh  staff   384B 28 Jul 09:26 .docker
+drwxr-xr-x   30 robertmchugh  staff   960B  9 Jun 15:09 .dotnet
+drwxr-xr-x    8 robertmchugh  staff   256B 14 Jan  2020 .eclipse
+drwxr-xr-x    4 robertmchugh  staff   128B 16 Mar 15:35 .electron
+drwxr-xr-x    4 robertmchugh  staff   128B 15 May  2019 .gem
+-rw-r--r--    1 robertmchugh  staff   216B 16 Mar 15:51 .gitconfig
+-rw-r--r--    1 robertmchugh  staff     9B 16 Mar 15:51 .gitignore
+-rw-r--r--    1 robertmchugh  staff    27B 26 Jan  2022 .gitignore_global
+-rw-------    1 robertmchugh  staff    42B 26 Sep  2019 .guard_history
+drwxr-xr-x    5 robertmchugh  staff   160B 11 Jan  2022 .ionic
+drwxr-xr-x    3 robertmchugh  staff    96B 13 Oct  2020 .ipython
+-rw-------    1 robertmchugh  staff    20B  4 Aug 14:32 .lesshst
+drwxr-xr-x    3 robertmchugh  staff    96B 15 May  2019 .local
+-rw-r--r--    1 robertmchugh  staff    26B  8 Jan  2020 .localstack
+drwxr-xr-x    3 robertmchugh  staff    96B 10 Dec  2019 .m2
+drwxr-xr-x    3 robertmchugh  staff    96B 22 Aug 08:49 .microsoft
+drwxr-xr-x    3 robertmchugh  staff    96B 15 May  2019 .mono
+-rw-------    1 robertmchugh  staff   198B 15 Mar 11:55 .netrc
+drwx------    3 robertmchugh  staff    96B 16 Sep  2019 .ngrok2
+drwxr-xr-x    5 robertmchugh  staff   160B 17 Mar 11:15 .node-gyp
+-rw-------    1 robertmchugh  staff   7.5K 30 Jul  2020 .node_repl_history
+drwxr-xr-x   10 robertmchugh  staff   320B 29 Apr 10:18 .npm
+-rw-r--r--    1 robertmchugh  staff   688B 16 Mar 15:05 .npmrc
+drwxr-xr-x    4 robertmchugh  staff   128B 25 Mar  2021 .nuget
+drwxr-xr-x   27 robertmchugh  staff   864B  7 Jun  2019 .nvm
+drwxr-xr-x   18 robertmchugh  staff   576B 15 May  2019 .oh-my-zsh
+drwxr-xr-x    2 robertmchugh  staff    64B 10 Mar  2021 .omnisharp
+-rw-r--r--    1 robertmchugh  staff   567B  9 Oct  2020 .openvpn-connect.json
+drwxr-xr-x    3 robertmchugh  staff    96B  3 Mar  2020 .oracle_jre_usage
+drwxr-xr-x    8 robertmchugh  staff   256B 14 Jan  2020 .p2
+-rw-------    1 robertmchugh  staff   1.6K 30 May  2019 .pgAdmin4.startup.log
+drwx------    6 robertmchugh  staff   192B 30 May  2019 .pgadmin
+-rw-------    1 robertmchugh  staff    42K 19 Dec  2019 .pry_history
+-rw-------    1 robertmchugh  staff   1.5K 21 May  2020 .psql_history
+drwxr-xr-x    4 robertmchugh  staff   128B 15 May  2019 .rbenv
+-rw-r--r--    1 robertmchugh  staff     6B 15 May  2019 .ruby-version
+drwxr-xr-x    5 robertmchugh  staff   160B 15 Feb  2022 .serverless
+-rw-r--r--    1 robertmchugh  staff   213B 15 Feb  2022 .serverlessrc
+drwxr-xr-x    3 robertmchugh  staff    96B  8 Jul  2019 .solargraph
+drwx------   11 robertmchugh  staff   352B 23 Nov  2020 .ssh
+drwxr-xr-x    7 robertmchugh  staff   224B 28 Aug  2020 .standard-v12-cache
+drwxr-xr-x    6 robertmchugh  staff   192B 15 May  2019 .subversion
+drwxr-xr-x    5 robertmchugh  staff   160B 29 Apr 13:09 .templateengine
+drwxr-xr-x    4 robertmchugh  staff   128B 15 Feb  2022 .terraform.d
+drwxr-xr-x    3 robertmchugh  staff    96B 21 Mar 11:40 .testcafe-browser-tools
+drwxr-xr-x    3 robertmchugh  staff    96B 14 Jan  2020 .tooling
+drwxr-xr-x    9 robertmchugh  staff   288B 20 Oct  2020 .vagrant.d
+-rw-------    1 robertmchugh  staff   3.1K 30 Jul  2019 .viminfo
+drwxr-xr-x    4 robertmchugh  staff   128B 29 Nov  2019 .vscode
+drwxr-xr-x    3 robertmchugh  staff    96B 15 May  2019 .vsts
+drwxr-xr-x    4 robertmchugh  staff   128B  8 Aug  2019 .webdrivers
+-rw-r--r--    1 robertmchugh  staff     4B 17 Dec  2021 .wsalock
+-rw-r--r--    1 robertmchugh  staff   116B 27 Jul 15:38 .yarnrc
+-rw-r--r--    1 robertmchugh  staff    47K 10 Jun 12:06 .zcompdump
+-rw-r--r--    1 robertmchugh  staff    40K 15 May  2019 .zcompdump-Robert’s MacBook-5.3
+-rw-r--r--    1 robertmchugh  staff    47K 21 May 03:42 .zcompdump-Robert’s MacBook-5.8.1
+-rw-------    1 robertmchugh  staff   465K 24 Aug 21:53 .zsh_history
+-rw-r--r--    1 robertmchugh  staff   4.4K 10 Jun 11:33 .zshrc
+-rw-r--r--    1 robertmchugh  staff   3.9K 23 Nov  2020 .zshrc.backup
+-rw-r--r--    1 root          staff   5.4M 14 Dec  2020 AgentInstaller.pkg
+drwx------@   4 robertmchugh  staff   128B  7 Mar 08:57 Applications
+drwx------+  29 robertmchugh  staff   928B 24 Aug 16:47 Desktop
+drwx------+   7 robertmchugh  staff   224B 16 Feb  2022 Documents
+drwx------+  29 robertmchugh  staff   928B  5 Aug 14:15 Downloads
+drwx------@ 100 robertmchugh  staff   3.1K 24 Aug 16:52 Library
+drwx------+   4 robertmchugh  staff   128B 21 May 03:55 Movies
+drwx------+   5 robertmchugh  staff   160B 21 May 03:55 Music
+drwx------+   6 robertmchugh  staff   192B 22 Aug  2019 Pictures
+drwxr-xr-x    3 robertmchugh  staff    96B  3 Jun  2019 Postman
+drwxr-xr-x+   4 robertmchugh  staff   128B 15 May  2019 Public
+drwxr-xr-x    3 robertmchugh  staff    96B 13 Oct  2020 PycharmProjects
+-rw-r--r--    1 robertmchugh  staff     7B 24 Feb  2021 README.md
+drwxr-xr-x   11 robertmchugh  staff   352B  8 Apr  2021 RiderProjects
+drwxr-xr-x    4 robertmchugh  staff   128B  9 Oct  2020 Sites
+drwxr-xr-x   11 robertmchugh  staff   352B 11 Feb  2021 VirtualBox VMs
+drwxr-xr-x    3 robertmchugh  staff    96B 10 Feb  2021 ckan
+drwxr-xr-x   18 robertmchugh  staff   576B 29 Oct  2020 dkan-tools
+drwxr-xr-x    3 robertmchugh  staff    96B 14 Jan  2020 eclipse
+drwxr-xr-x    3 robertmchugh  staff    96B 14 Jan  2020 eclipse-workspace
+drwxr-xr-x    4 robertmchugh  staff   128B 13 Jan  2022 go
+drwxr-xr-x@  18 robertmchugh  staff   576B 23 Nov  2020 google-cloud-sdk
+drwx------    4 robertmchugh  staff   128B  7 Dec  2021 iCloud Drive (Archive)
+-rw-r--r--    1 robertmchugh  staff   305K  5 Jul 16:23 java_error_in_rider_84213.log
+-rw-r--r--    1 robertmchugh  staff   282K 11 Jul 11:09 java_error_in_rider_96176.log
+-rw-r--r--@   1 robertmchugh  staff   3.6K  5 Jul 16:23 jbr_err_pid84213.log
+-rw-r--r--@   1 robertmchugh  staff   3.6K 11 Jul 11:09 jbr_err_pid96176.log
+-rwxr-xr-x@   1 robertmchugh  staff    25M 20 Jul  2019 ngrok
+drwxr-xr-x   14 robertmchugh  staff   448B 30 Sep  2019 node_modules
+-rw-r--r--    1 robertmchugh  staff   3.5K 30 Sep  2019 package-lock.json
+drwxr-xr-x   19 robertmchugh  staff   608B 16 Aug 10:35 projects
+drwxr-xr-x    9 robertmchugh  staff   288B 23 Jun  2021 sdd-technical-documentation
+-rw-r--r--    1 robertmchugh  staff   602B 22 Aug 08:46 secrets.json
+drwxr-xr-x    4 robertmchugh  staff   128B 24 Feb  2021 tic-tac-toe
+
+~ via ⬢ v16.13.0
+➜ cat .zshrc
+# If you come from bash you might have to change your $PATH.
+# export PATH=$HOME/bin:/usr/local/bin:$PATH
+
+# Path to your oh-my-zsh installation.
+export ZSH="/Users/robertmchugh/.oh-my-zsh"
+
+# Set name of the theme to load --- if set to "random", it will
+# load a random theme each time oh-my-zsh is loaded, in which case,
+# to know which specific one was loaded, run: echo $RANDOM_THEME
+# See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
+ZSH_THEME="spaceship"
+
+# Set list of themes to pick from when loading at random
+# Setting this variable when ZSH_THEME=random will cause zsh to load
+# a theme from this variable instead of looking in ~/.oh-my-zsh/themes/
+# If set to an empty array, this variable will have no effect.
+# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
+
+# Uncomment the following line to use case-sensitive completion.
+# CASE_SENSITIVE="true"
+
+# Uncomment the following line to use hyphen-insensitive completion.
+# Case-sensitive completion must be off. _ and - will be interchangeable.
+# HYPHEN_INSENSITIVE="true"
+
+# Uncomment the following line to disable bi-weekly auto-update checks.
+# DISABLE_AUTO_UPDATE="true"
+
+# Uncomment the following line to automatically update without prompting.
+# DISABLE_UPDATE_PROMPT="true"
+
+# Uncomment the following line to change how often to auto-update (in days).
+# export UPDATE_ZSH_DAYS=13
+
+# Uncomment the following line if pasting URLs and other text is messed up.
+# DISABLE_MAGIC_FUNCTIONS=true
+
+# Uncomment the following line to disable colors in ls.
+# DISABLE_LS_COLORS="true"
+
+# Uncomment the following line to disable auto-setting terminal title.
+# DISABLE_AUTO_TITLE="true"
+
+# Uncomment the following line to enable command auto-correction.
+# ENABLE_CORRECTION="true"
+
+# Uncomment the following line to display red dots whilst waiting for completion.
+# COMPLETION_WAITING_DOTS="true"
+
+# Uncomment the following line if you want to disable marking untracked files
+# under VCS as dirty. This makes repository status check for large repositories
+# much, much faster.
+# DISABLE_UNTRACKED_FILES_DIRTY="true"
+
+# Uncomment the following line if you want to change the command execution time
+# stamp shown in the history command output.
+# You can set one of the optional three formats:
+# "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
+# or set a custom format using the strftime function format specifications,
+# see 'man strftime' for details.
+# HIST_STAMPS="mm/dd/yyyy"
+
+# Would you like to use another custom folder than $ZSH/custom?
+# ZSH_CUSTOM=/path/to/new-custom-folder
+
+# Which plugins would you like to load?
+# Standard plugins can be found in ~/.oh-my-zsh/plugins/*
+# Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+# Add wisely, as too many plugins slow down shell startup.
+plugins=(git zsh-autosuggestions)
+
+source $ZSH/oh-my-zsh.sh
+
+# User configuration
+
+# export MANPATH="/usr/local/man:$MANPATH"
+
+# You may need to manually set your language environment
+# export LANG=en_US.UTF-8
+
+# Preferred editor for local and remote sessions
+# if [[ -n $SSH_CONNECTION ]]; then
+#   export EDITOR='vim'
+# else
+#   export EDITOR='mvim'
+# fi
+
+# Compilation flags
+# export ARCHFLAGS="-arch x86_64"
+
+# Node Version Manager
+# export nvm
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+eval nvm use default
+
+# Set personal aliases, overriding those provided by oh-my-zsh libs,
+# plugins, and themes. Aliases can be placed here, though oh-my-zsh
+# users are encouraged to define aliases within the ZSH_CUSTOM folder.
+# For a full list of active aliases, run `alias`.
+#
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh"
+alias be="bundler exec"
+alias gpls="git push -—force-with-lease"
+alias gpuo='git push -u origin $(git branch | grep \* | cut -d " " -f2)'
+export PATH=/usr/local/bin:$PATH
+eval "$(rbenv init -)"
+export dotnet=/user/local/share/dotnet
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/Users/robertmchugh/Downloads/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/robertmchugh/Downloads/google-cloud-sdk/path.zsh.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/Users/robertmchugh/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/robertmchugh/Downloads/google-cloud-sdk/completion.zsh.inc'; fi
+
+~ via ⬢ v16.13.0
+➜
